@@ -69081,6 +69081,9 @@
 	<programme channel="newtv超级综艺" start="20241028010700 +0800" stop="20241028015400 +0800">
 		<title lang="zh">11_隋唐英雄3</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241028015400 +0800" stop="20241028024000 +0800">
+		<title lang="zh">12_隋唐英雄3</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -69105,6 +69108,9 @@
 	<programme channel="newtv超级电视剧" start="20241028010600 +0800" stop="20241028015100 +0800">
 		<title lang="zh">01_无所畏惧</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241028015100 +0800" stop="20241028023300 +0800">
+		<title lang="zh">02_无所畏惧</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -69113,6 +69119,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241028005900 +0800" stop="20241028015000 +0800">
 		<title lang="zh">22_我和我的三个姐姐</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241028015000 +0800" stop="20241028024100 +0800">
+		<title lang="zh">23_我和我的三个姐姐</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -69131,6 +69140,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241028014300 +0800" stop="20241028015700 +0800">
 		<title lang="zh">03_希望</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241028015700 +0800" stop="20241028025600 +0800">
+		<title lang="zh">第五集 布局海洋</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -69158,6 +69170,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241028010200 +0800" stop="20241028015900 +0800">
 		<title lang="zh">31_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241028015900 +0800" stop="20241028024700 +0800">
+		<title lang="zh">32_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -69204,6 +69219,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241028010200 +0800" stop="20241028015800 +0800">
 		<title lang="zh">62_因为爱情有多美（DVD版）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241028015800 +0800" stop="20241028025400 +0800">
+		<title lang="zh">63_因为爱情有多美（DVD版）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -69218,6 +69236,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241028013000 +0800" stop="20241028015600 +0800">
 		<title lang="zh">以军首次对也门发动空袭 美日欲将“使用核武”写入联合文件</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241028015600 +0800" stop="20241028022100 +0800">
+		<title lang="zh">俄战机阻止美轰炸机侵犯俄边境 美或允许乌军用美制武器打击俄领土</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
